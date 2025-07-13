@@ -28,19 +28,19 @@ The archive is organized by Minecraft versions.
 Inside each folder, you'll find:
 
 - `.jar` mod files
-- A brief description
+- A brief description, as well as the archived mods build versions
 - Original author(s), if known
-- Notes on compatibility and usage
+- Notes on compatibility and usage (if deemed necessary)
 
 ---
 
 ## 🔍 Example Mods
 
-| Mod Name             | Description                         | Build Version | Original Authors |
-|----------------------|-------------------------------------|---------------|-----------------|
-| **OldAnimationsMod** | Restores classic 1.7 PvP animations | 1.0, 1.1, 2.0 | Spiderfrog      |
-| **Keystrokes**       | Displays movements keys on screen   | 2.0           | Fyu             |
-| **PotionEffectHUD**  | Shows potion timers on screen       | Client        | Bspkrs          |
+| Mod Name             | Description                         | Build Version | Original Authors | Notes                                                 |
+|----------------------|-------------------------------------|---------------|-----------------|-------------------------------------------------------|
+| **OldAnimationsMod** | Restores classic 1.7 PvP animations | 1.0, 1.1, 2.0 | Spiderfrog      | Some versions need the "OAM Classloader" mod to work! |
+| **Keystrokes**       | Displays movements keys on screen   | 2.0           | Fyu             | -                                                     |
+| **PotionEffectHUD**  | Shows potion timers on screen       | Client        | Bspkrs          | -                                                     |
 
 
 > ⚠️ Some mods are marked for specific Forge builds. Use with caution on modern setups.
@@ -104,6 +104,3 @@ These mods defined an era where skill, timing, and game sense mattered most.
 By preserving them, we honor a community that shaped one of the most competitive and creative chapters in Minecraft's history.
 
 📌 **Competitive Minecraft PvP may have moved on — but its legacy deserves to be remembered.**
-
-
-
